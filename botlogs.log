@@ -1,0 +1,206 @@
+DEBUG:instabot version: 0.117.0:Saving Checkpoint file to: C:\Users\super\Google Drive\all_python\roflobot/config/uriyhovanski489.checkpoint
+INFO:instabot version: 0.117.0:Total requests: 31
+INFO:instabot version: 0.117.0:Instabot version: 0.117.0 Started
+DEBUG:instabot version: 0.117.0:Bot imported from C:\python\lib\site-packages\instabot\bot\bot.py
+DEBUG:instabot version: 0.117.0:Loading cookies
+INFO:instabot version: 0.117.0:Instabot version: 0.117.0 Started
+DEBUG:instabot version: 0.117.0:Bot imported from C:\python\lib\site-packages\instabot\bot\bot.py
+DEBUG:instabot version: 0.117.0:Loading cookies
+INFO:instabot version: 0.117.0:Instabot version: 0.117.0 Started
+DEBUG:instabot version: 0.117.0:Bot imported from C:\python\lib\site-packages\instabot\bot\bot.py
+DEBUG:instabot version: 0.117.0:Loading cookies
+INFO:instabot version: 0.117.0:Instabot version: 0.117.0 Started
+DEBUG:instabot version: 0.117.0:Bot imported from C:\python\lib\site-packages\instabot\bot\bot.py
+INFO:instabot version: 0.117.0:Not yet logged in starting: PRE-LOGIN FLOW!
+DEBUG:instabot version: 0.117.0:POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: qe/sync/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: launcher/sync/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: accounts/login/ returned response: <Response [200]>
+INFO:instabot version: 0.117.0:Logged-in successfully as 'uriyhovanski489'!
+INFO:instabot version: 0.117.0:LOGIN FLOW! Just logged-in: True
+DEBUG:instabot version: 0.117.0:POST to endpoint: qe/sync/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: launcher/sync/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: zr/token/result/?device_id=android-e967314688e6eebd&token_hash=&custom_device_id=android-e967314688e6eebd&fetch_reason=token_expired returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: qe/sync/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: feed/timeline/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: media/blocked/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: news/inbox/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: locations/request_country/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: users/48872796441/info/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=6a76eb7a-df2a-453a-a936-b86b6128d75c&include_fixed_destinations=true returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: notifications/badge/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+DEBUG:instabot version: 0.117.0:Loading Checkpoint file from: C:\Users\super\Google Drive\all_python\roflobot/config/uriyhovanski489.checkpoint
+DEBUG:instabot version: 0.117.0:GET to endpoint: media/BuRguGHHxQb/info/ returned response: <Response [400]>
+DEBUG:instabot version: 0.117.0:Responsecode indicates error; response content: b'{"message":"Invalid media_id BuRguGHHxQb","status":"fail"}'
+ERROR:instabot version: 0.117.0:Request returns 400 error!
+INFO:instabot version: 0.117.0:Instagram's error message: Invalid media_id BuRguGHHxQb
+INFO:instabot version: 0.117.0:Instagram's error message: {}
+INFO:instabot version: 0.117.0:Media with BuRguGHHxQb not found.
+DEBUG:instabot version: 0.117.0:Saving Checkpoint file to: C:\Users\super\Google Drive\all_python\roflobot/config/uriyhovanski489.checkpoint
+INFO:instabot version: 0.117.0:Total requests: 32
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Dispatcher._process_polling_updates() done, defined at C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=TypeError("__init__() missing 1 required keyword-only argument: 'input_message_content'")>
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in process_update
+    return await self.inline_query_handlers.notify(update.inline_query)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:\Users\super\Google Drive\all_python\roflobot\main.py", line 38, in inline_handler
+    InlineQueryResultArticle(
+TypeError: __init__() missing 1 required keyword-only argument: 'input_message_content'
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Dispatcher._process_polling_updates() done, defined at C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=BadRequest('Message must be non-empty')>
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in process_update
+    return await self.inline_query_handlers.notify(update.inline_query)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:\Users\super\Google Drive\all_python\roflobot\main.py", line 48, in inline_handler
+    await query.answer(
+  File "C:\python\lib\site-packages\aiogram\types\inline_query.py", line 61, in answer
+    return await self.bot.answer_inline_query(self.id,
+  File "C:\python\lib\site-packages\aiogram\bot\bot.py", line 2798, in answer_inline_query
+    return await self.request(api.Methods.ANSWER_INLINE_QUERY, payload)
+  File "C:\python\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\python\lib\site-packages\aiogram\utils\exceptions.py", line 141, in detect
+    raise cls(description)
+aiogram.utils.exceptions.BadRequest: Message must be non-empty
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=BadRequest('Message must be non-empty')>
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in process_update
+    return await self.inline_query_handlers.notify(update.inline_query)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:\Users\super\Google Drive\all_python\roflobot\main.py", line 48, in inline_handler
+    await query.answer(
+  File "C:\python\lib\site-packages\aiogram\types\inline_query.py", line 61, in answer
+    return await self.bot.answer_inline_query(self.id,
+  File "C:\python\lib\site-packages\aiogram\bot\bot.py", line 2798, in answer_inline_query
+    return await self.request(api.Methods.ANSWER_INLINE_QUERY, payload)
+  File "C:\python\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\python\lib\site-packages\aiogram\utils\exceptions.py", line 141, in detect
+    raise cls(description)
+aiogram.utils.exceptions.BadRequest: Message must be non-empty
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Dispatcher._process_polling_updates() done, defined at C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=BadRequest('Message must be non-empty')>
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in process_update
+    return await self.inline_query_handlers.notify(update.inline_query)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:\Users\super\Google Drive\all_python\roflobot\main.py", line 48, in inline_handler
+    await query.answer(
+  File "C:\python\lib\site-packages\aiogram\types\inline_query.py", line 61, in answer
+    return await self.bot.answer_inline_query(self.id,
+  File "C:\python\lib\site-packages\aiogram\bot\bot.py", line 2798, in answer_inline_query
+    return await self.request(api.Methods.ANSWER_INLINE_QUERY, payload)
+  File "C:\python\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\python\lib\site-packages\aiogram\utils\exceptions.py", line 141, in detect
+    raise cls(description)
+aiogram.utils.exceptions.BadRequest: Message must be non-empty
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Dispatcher._process_polling_updates() done, defined at C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py:409> exception=InvalidQueryID('Query is too old and response timeout expired or query id is invalid')>
+Traceback (most recent call last):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 417, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 238, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in process_update
+    return await self.inline_query_handlers.notify(update.inline_query)
+  File "C:\python\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "c:\Users\super\Google Drive\all_python\roflobot\main.py", line 48, in inline_handler
+    await query.answer(
+  File "C:\python\lib\site-packages\aiogram\types\inline_query.py", line 61, in answer
+    return await self.bot.answer_inline_query(self.id,
+  File "C:\python\lib\site-packages\aiogram\bot\bot.py", line 2798, in answer_inline_query
+    return await self.request(api.Methods.ANSWER_INLINE_QUERY, payload)
+  File "C:\python\lib\site-packages\aiogram\bot\base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\python\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\python\lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.InvalidQueryID: Query is too old and response timeout expired or query id is invalid
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
